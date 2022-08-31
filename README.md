@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Starting my first system engineering devop
+This is a the basis of system engineering devops
